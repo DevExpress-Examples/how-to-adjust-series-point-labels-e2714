@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/AdjustSeriesPointLabels/MainPage.xaml) (VB: [MainPage.xaml](./VB/AdjustSeriesPointLabels/MainPage.xaml))
+<!-- default file list end -->
 # How to adjust series point labels
 
 
